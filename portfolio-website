@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Brighty Portfolio</title>
+</head>
+<body>
+    <h1>Brighty Chilaka</h1>
+    <h2>Web Developer</h2>
+
+    <h3>About Me</h3>
+    <p>B.Tech Student passionate about Web Development.</p>
+
+    <h3>Skills</h3>
+    <ul>
+        <li>Python</li>
+        <li>Java</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+    </ul>
+</body>
+</html>
